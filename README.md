@@ -1,5 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Esraa Hesham
 
+Software Engineering Student
+
+## About Me
+- Interested in Software Development
+- Learning Java
+-  Learning C++
+- Learning Python
+- Learning C#
+- 🌱 Always improving my programming skills
+
+## Skills
+- Python
+- C++
+- Java
+- SQL
+
+## Contact
+- GitHub: github.com/EsraaHesham16
 <!--
 **EsraaHesham16/EsraaHesham16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
